@@ -3,7 +3,7 @@
 const onxrloaded = () => {
 
   // 3D model to spawn at tap
-  const modelFile = 'tree.glb'
+  const modelFile = 'Test.glb'
   
   // Initial scale value for our model
   const startScale = new THREE.Vector3(0.0001, 0.0001, 0.0001)
